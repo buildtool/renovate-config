@@ -38,7 +38,7 @@
         "pre-commit",
         "dockerfile",
         "github-actions",
-        "golang"
+        "gomod"
       ],
       "matchUpdateTypes": [
         "minor",
