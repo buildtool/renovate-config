@@ -66,5 +66,13 @@
   ],
   "postUpdateOptions": [
     "gomodTidy"
-  ]
+  ],
+  "osvVulnerabilityAlerts": true,
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "labels": [
+      "dependencies",
+      "security"
+    ]
+  }
 }
