@@ -50,6 +50,15 @@
     },
     {
       "matchManagers": [
+        "gomod"
+      ],
+      "matchDepTypes": [
+        "indirect"
+      ],
+      "enabled": true
+    },
+    {
+      "matchManagers": [
         "github-actions"
       ],
       "matchUpdateTypes": [
